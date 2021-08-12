@@ -1,0 +1,7 @@
+name: ClientCrasher
+version: ${project.version}
+main: riyaya1528.paper.clientcrasher.ClientCrasher
+commands:
+  crash:
+    usage: ""
+    permission: ClientCrasher.commands.crash
