@@ -1,14 +1,16 @@
 # ClientCrasher
-Crash Player's Client
+プレイヤーのクライアントをクラッシュさせます
 
-# How To Use
+# 使い方
 
-1.choose player
+荒らしホイホイとして使ってね
 
-2.Enter the command
+1.プレイヤーを選んで
 
-3.Have a fun!
+2.コマンドを打つ
 
-# Command
+3.何ということでしょう!!マイクラがホワイトアウトして応答なしになりました :)
+
+# コマンド
 
 /crash [mcid]
